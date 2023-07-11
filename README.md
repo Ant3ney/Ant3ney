@@ -1,5 +1,5 @@
 # Anthony Cavuoti
-### Full Stack Web Architect | Embracing Modern Technologies | Clean Code Advocate | Passionate About full stack solutions to lifes problems
+### Full Stack Web Architect | Embracing Modern Technologies | Clean Code Advocate | Passionate About Full Stack Solutions to Life's Problems
 
 ⤷ Some prominent general projects I'm working on is Singularity, Homework Dooer Pro, Parallel Computing, and Typescript frameworks.
 
