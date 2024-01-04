@@ -7,7 +7,7 @@
 
 ⚐ Based in Torrance LA California 90503
 
-ϟ Currently sorking on package for Unreal Engine Marketplace.
+ϟ Currently working on package for Unreal Engine Marketplace.
 
 ϟ Recently finishing up new features for Homework Dooer Pro
 
