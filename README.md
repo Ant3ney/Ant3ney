@@ -7,7 +7,7 @@
 
 ⚐ Based in Torrance LA California 90503
 
-ϟ Currently Parallel Computing.
+ϟ Currently Working on package for Unreal Engine Marketplace.
 
 ϟ Recently Finishing up new features for Homework Dooer Pro
 
