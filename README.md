@@ -7,7 +7,7 @@
 
 ⚐ Based in Torrance LA California 90503
 
-ϟ Finished early alpha package, [dynamic flaning system](https://github.com/Ant3ney/UE5_Flanking_System_Dynamic), for Unreal Engine Marketplace.
+ϟ Finished early alpha package, [dynamic flanking system](https://github.com/Ant3ney/UE5_Flanking_System_Dynamic), for Unreal Engine Marketplace.
 
 ϟ Recently finished Unity 3D game development workshop
 
