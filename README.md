@@ -1,5 +1,5 @@
 # Anthony Cavuoti
-### Game Developer | Game Designer | Full Stack Web Architect | Embracing Modern Technologies  | Passionate About Full Stack Solutions to Life's Problems
+### Gameplay Developer
 
 ⤷ Currently working on Frontier Heros - A game about proto cowboys training to save their town from an enclave of cruel people.
 
